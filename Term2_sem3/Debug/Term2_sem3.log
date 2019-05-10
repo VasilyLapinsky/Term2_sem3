@@ -1,0 +1,8 @@
+﻿  Term2_sem3.cpp
+d:\vsprojects\term2_sem3\term2_sem3\term2_sem3.cpp(95): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vsprojects\term2_sem3\term2_sem3\term2_sem3.cpp(103): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vsprojects\term2_sem3\term2_sem3\term2_sem3.cpp(138): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vsprojects\term2_sem3\term2_sem3\term2_sem3.cpp(153): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vsprojects\term2_sem3\term2_sem3\term2_sem3.cpp(270): warning C4018: <: несоответствие типов со знаком и без знака
+d:\vsprojects\term2_sem3\term2_sem3\term2_sem3.cpp(185): warning C4715: make_tree: значение возвращается не при всех путях выполнения
+  Term2_sem3.vcxproj -> D:\VSprojects\Term2_sem3\Debug\Term2_sem3.exe
